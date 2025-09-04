@@ -1,3 +1,5 @@
+>!IMPORTANT A full remake releasing soon.<
+
 **🚀 Download and upload your server jar (`.jar` file)**  
 **💻 Type the amount of RAM you want (min `512MB`, no max limit)**  
 **✏️ Name your server**  
