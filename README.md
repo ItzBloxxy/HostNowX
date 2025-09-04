@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-
+> [!INFO]
+> A Full remake coming soon, improved ui and features, even faster perfomance and organized.
 **🚀 Download and upload your server jar (`.jar` file)**  
 **💻 Type the amount of RAM you want (min `512MB`, no max limit)**  
 **✏️ Name your server**  
