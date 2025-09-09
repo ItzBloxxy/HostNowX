@@ -1,8 +1,44 @@
-# A Full remake coming soon, improved ui and features, even faster perfomance and organized.
-## Might take up to 2 weeks because we are testing it and making more stable than ever!
-**🚀 Download and upload your server jar (`.jar` file)**  
-**💻 Type the amount of RAM you want (min `512MB`, no max limit)**  
-**✏️ Name your server**  
-**✅ And done!**  
-**Your server is saved and ready to boot! 🎮🔥**  
-**📱 Use [playit.gg](https://playit.gg/) to publish it, then you can play with your friends!**  
+# HostNowX
+
+HostNowX is a Python application for managing multiple Minecraft servers. You can add, edit, run, stop, restart, and monitor servers easily
+
+> ⚠️ **Windows-only for now. Linux support coming soon!**
+
+---
+
+## Features
+
+- **Add and manage multiple Minecraft servers** easily through a GUI  
+- **Run, stop, and restart servers** directly from the interface  
+- **Server console access** with real-time logs and command input  
+- **Server information** including:
+  - Uptime
+  - RAM usage
+  - CPU usage
+  - Storage usage  
+- **Dark-themed modern GUI** built with PyQt6  
+- **Automatic server detection** in the designated folder  
+- **Customizable RAM allocation** per server (including custom RAM values)  
+- **Read-only console view** for already running servers  
+- **Context menu** with quick actions:
+  - Edit Server
+  - Open Console
+  - Open Folder
+  - Remove
+  - Restart
+  - Run
+  - Stop
+  - Server Info  
+
+---
+
+## Installation (Windows Only)
+
+1. **Install Python 3.10 or higher**  
+   - Download Python from [python.org](https://www.python.org/downloads/windows/)  
+   - During installation, **check "Add Python to PATH"**.
+
+2. **Install required Python packages**:  
+   Open Command Prompt and run:
+   ```cmd
+   pip install PyQt6 psutil
