@@ -1,6 +1,6 @@
 # HostNowX
 
-## 📈 Known Issues
+## 📈 V1.2 Known Issues
 
 * Some performance issues may occur
 * **Expected performance fixes around 25-26 September**
