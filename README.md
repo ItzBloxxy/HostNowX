@@ -4,6 +4,7 @@
 
 * Some performance issues may occur
 * **Expected performance fixes around 25-26 September**
+* Updating python fixes it, and pip upgrade if updates
 
 * **For now, please be patient, it's unoptimized**
 
