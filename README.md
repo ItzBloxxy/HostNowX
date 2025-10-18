@@ -3,8 +3,7 @@
 ## 📈 V1.2 Known Issues
 
 * Some performance issues may occur
-* **Expected performance fixes around 25-26 September**
-* Updating python fixes it, and pip upgrade if updates
+* Updating python fixes it
 
 * **For now, please be patient, it's unoptimized**
 
