@@ -3,7 +3,7 @@
 ## 📈 V1.2 Known Issues
 
 * Some performance issues may occur
-* Updating python fixes it
+* Updating soon.....
 
 * **For now, please be patient, it's unoptimized**
 
