@@ -31,7 +31,7 @@ HostNowX is a Python application for managing multiple Minecraft servers. You ca
 
 ---
 
-## Installation (Windows Only)
+## Installation
 
 1. **Install Python 3.10 or higher**  
    - Download Python from [python.org](https://www.python.org/downloads/windows/)  
