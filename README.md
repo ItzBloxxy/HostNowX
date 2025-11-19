@@ -1,4 +1,4 @@
-# HostNowX 🖥️🎮
+# HostNowX
 
 HostNowX is a Python application for managing multiple Minecraft servers. You can add, edit, run, stop, restart, and monitor servers easily!
 
