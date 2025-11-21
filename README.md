@@ -36,4 +36,4 @@ HostNowX is a Python application for hosting and managing multiple Minecraft ser
    ```
 ---
 
-Would you like me to also **add a Usage section** (with an example command to start HostNowX) so new users know how to run it right after installation?
+Would you like me to also **add a Usage section** (with an example command to start HostNowX) so new users know how to run it right after installation? no ty
