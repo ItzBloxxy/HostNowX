@@ -8,7 +8,7 @@ HostNowX is a Python application for hosting and managing multiple Minecraft ser
 
 - **Manage multiple Minecraft servers** with ease  
 - **Run, stop, restart, or remove servers** directly from the context menu  
-- **Real-time server console** with logs and command input  
+- **Server console** with logs and command input  
 - **Detailed server information**:
   - Uptime  
   - RAM, CPU, and storage usage  
