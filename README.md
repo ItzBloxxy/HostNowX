@@ -6,28 +6,21 @@ HostNowX is a Python application for hosting and managing multiple Minecraft ser
 
 ## Features
 
-- **Add and manage multiple Minecraft servers** easily
-- **Run, stop, and restart servers** directly from the context menu (right click a server)  
-- **Server console** with real-time logs and command input  
-- **Server information** including:
-  - Uptime
-  - RAM usage
-  - CPU usage
-  - Storage usage  
-- **Dark themed modern GUI** built with the **PyQt6** library
-- **See what server is running**
-<img width="341" height="65" alt="image" src="https://github.com/user-attachments/assets/dff4a770-1b70-4709-9cff-717b40dd667a" />
-
+- **Manage multiple Minecraft servers** with ease  
+- **Run, stop, restart, or remove servers** directly from the context menu  
+- **Real-time server console** with logs and command input  
+- **Detailed server information**:
+  - Uptime  
+  - RAM, CPU, and storage usage  
+- **Modern dark-themed GUI** built with **PyQt6**  
 - **Customizable RAM allocation** per server  
-- **Context menu** with quick actions:
-  - Edit Server
-  - Open Console
-  - Open Folder
-  - Remove
-  - Restart
-  - Run
-  - Stop
+- **Quick actions** available from the context menu:
+  - Edit Server  
+  - Open Console  
+  - Open Folder  
   - Server Info  
+
+<img width="341" height="65" alt="image" src="https://github.com/user-attachments/assets/dff4a770-1b70-4709-9cff-717b40dd667a" />
 
 ---
 
@@ -35,9 +28,12 @@ HostNowX is a Python application for hosting and managing multiple Minecraft ser
 
 1. **Install Python 3.10 or higher**  
    - Download Python from [python.org](https://www.python.org/downloads/windows/)  
-   - During installation, **check "Add Python to PATH"**.
+   - During installation, check **"Add Python to PATH"**.
 
-2. **Install required Python packages**:  
-   Open Command Prompt and run:
+2. **Install dependencies**:  
    ```cmd
    pip install PyQt6 psutil
+   ```
+---
+
+Would you like me to also **add a Usage section** (with an example command to start HostNowX) so new users know how to run it right after installation?
