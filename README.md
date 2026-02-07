@@ -19,9 +19,6 @@ HostNowX is a Python application for hosting and managing multiple Minecraft ser
   - Open Console  
   - Open Folder  
   - Server Info  
-
-<img width="341" height="65" alt="image" src="https://github.com/user-attachments/assets/dff4a770-1b70-4709-9cff-717b40dd667a" />
-
 ---
 
 ## Installation
