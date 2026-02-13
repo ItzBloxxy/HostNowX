@@ -2,7 +2,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/ItzBloxxy/HostNowX?style=for-the-badge&color=4caf50)](https://github.com/ItzBloxxy/HostNowX/releases)
 [![Stars](https://img.shields.io/github/stars/ItzBloxxy/HostNowX?style=for-the-badge&color=ff9800)](https://github.com/ItzBloxxy/HostNowX)
-[![License](https://img.shields.io/github/license/ItzBloxxy/HostNowX?style=for-the-badge&color=2196f3)](https://github.com/ItzBloxxy/HostNowX/blob/main/LICENSE)
 [![Latest Downloads](https://img.shields.io/github/downloads/ItzBloxxy/HostNowX/latest/total?style=for-the-badge&color=e91e63)](https://github.com/ItzBloxxy/HostNowX/releases)
 [![Total Downloads](https://img.shields.io/github/downloads/ItzBloxxy/HostNowX/total?style=for-the-badge&color=9c27b0)](https://github.com/ItzBloxxy/HostNowX/releases)
 
