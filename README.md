@@ -1,5 +1,11 @@
 # HostNowX
 
+[![Latest Release][badge-repo-latest]][repo-releases]
+[![Stars][badge-repo-stars]][repo-url]
+[![License][badge-repo-license]][repo-license]
+[![Latest Downloads][badge-repo-downloads-latest]][repo-releases]
+[![Total Downloads][badge-repo-downloads-total]][repo-releases]
+
 HostNowX is a Python application for hosting and managing multiple Minecraft servers!
 
 ---
@@ -24,10 +30,9 @@ HostNowX is a Python application for hosting and managing multiple Minecraft ser
 ## Installation
 
 1. **Install Python 3.10 or higher**  
-   - Download Python from [python.org](https://www.python.org/downloads/windows/)  
+   - Download Python from https://www.python.org/downloads/windows/  
    - During installation, check **"Add Python to PATH"**.
 
 2. **Install dependencies**:  
    ```cmd
    pip install PyQt6 psutil
-   ```
